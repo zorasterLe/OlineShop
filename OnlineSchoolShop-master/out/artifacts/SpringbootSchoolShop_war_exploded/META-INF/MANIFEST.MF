@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: 星海月痕
+Build-Jdk: version 1.8.0_45
+Implementation-Title: SpringbootSchoolShop
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.jiang
+Main-Class: ${start-class}
+
